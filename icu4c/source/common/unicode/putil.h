@@ -23,8 +23,8 @@
 ******************************************************************************
 */
 
-#ifndef PUTIL_H
-#define PUTIL_H
+#ifndef PUTIL_PRI_H
+#define PUTIL_PRI_H
 
 #include "unicode/utypes.h"
  /**

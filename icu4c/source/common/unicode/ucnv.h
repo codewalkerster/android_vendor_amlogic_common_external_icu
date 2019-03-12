@@ -46,8 +46,8 @@
  * Guide</a>.</p>
  */
 
-#ifndef UCNV_H
-#define UCNV_H
+#ifndef UCNV_PRI_H
+#define UCNV_PRI_H
 
 #include "unicode/ucnv_err.h"
 #include "unicode/uenum.h"

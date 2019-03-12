@@ -14,8 +14,8 @@
 *   created by: George Rhoten
 */
 
-#ifndef __UCLEAN_H__
-#define __UCLEAN_H__
+#ifndef __UCLEAN_PRI_H__
+#define __UCLEAN_PRI_H__
 
 #include "unicode/utypes.h"
 /**
