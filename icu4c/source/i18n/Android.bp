@@ -270,3 +270,11 @@ cc_library_shared {
     unique_host_soname: true,
     shared_libs: ["libicuuc_vendor"],
 }
+cc_library_static {
+    name: "libicui18n_product",
+    proprietary: false,
+    defaults: ["libicui18n_defaults_vendor"],
+    host_supported: true,
+    unique_host_soname: true,
+    static_libs: ["libicuuc_product"],
+}
